@@ -13,4 +13,4 @@ Sqlite3
 Tüm kurulumları sorunsuz bir şekilde yaptıktan sonra arayüz çalışacaktır.
 
 Arayüz Tanıtım Videosu:
-  Yakında.....
+https://www.youtube.com/watch?v=LswxHzDMYKI
